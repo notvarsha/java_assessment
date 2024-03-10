@@ -1,5 +1,7 @@
 # Java assessment
 
+Please run the program using <code>cd encoder/ && javac EncoderDecoder.java && java EncoderDecoder</code>
+
 The Object Oriented Principles (OOP) applied in this class are described as follows:
 
 - Encapsulation: The encoding and decoding functionalities are encapsulated within the EncoderDecoder class, providing a clean interface for users to interact with.
